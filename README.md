@@ -1,6 +1,6 @@
 # Rafael da Silva Santos [OBSERVAÇÃO]
 
-Apesar de obter sucesso ao rodar o jogo da forca desenvolvido por mim através do arquivo desafio.js e obter sucesso ao tentar rodar os arquivos de validação "feliz" e "triste" obtive o retorno de que "Parece que algo está errado". Ainda assim estou submetendo o código para avaliação.
+Apesar de obter sucesso ao rodar o jogo da forca desenvolvido por mim (forca.js) através do arquivo desafio.js e obter sucesso ao tentar rodar os arquivos de validação "feliz" e "triste" obtive o retorno de que "Parece que algo está errado". Ainda assim estou submetendo o código para avaliação.
 
 Até o lançamento do desafio, não tinha conhecimento nenhum na linguagem  de programação JavaScript e agradeço pelo desafio, pois me fez aprender num curto espaço de tempo muito sobre a linguagem  em questão e ao mesmo tempo adquirir certificações em cursos on-line na linguagem.
 
