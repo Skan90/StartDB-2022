@@ -114,7 +114,7 @@ class Forca {
           //troca letras pelas palavras correspondentes nos indices guardados no Array "posicao"
           for(let i = 0; i != this.posicao.length; i++){
             const j = this.posicao[i] 
-            this.palavra[j] = letra
+            this.palavra[j] = letra.toLowerCase()
           }
           //Retira todos o conteúdo dos índices no Array posicao
           while(this.posicao.length > 0) {
