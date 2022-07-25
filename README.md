@@ -1,6 +1,6 @@
-# Rafael da Silva Santos
+# Rafael da Silva Santos [OBSERVAÇÃO]
 
-Observações: Apesar de obter sucesso ao rodar o jogo da forca desenvolvido por mim através do arquivo desafio.js e obter sucesso ao tentar rodar os arquivos de validação "feliz" e "triste" obtive o retorno de que "Parece que algo está errado". Ainda assim estou submetendo o código para avaliação.
+Apesar de obter sucesso ao rodar o jogo da forca desenvolvido por mim através do arquivo desafio.js e obter sucesso ao tentar rodar os arquivos de validação "feliz" e "triste" obtive o retorno de que "Parece que algo está errado". Ainda assim estou submetendo o código para avaliação.
 
 
 # CÓDIGO DESENVOLVIDO PARA A START DB, PROGRAMA DE ESTÁGIO DA EMPRESA DBServer
