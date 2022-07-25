@@ -5,7 +5,7 @@ Observações: Apesar de obter sucesso ao rodar o jogo da forca desenvolvido por
 
 # CÓDIGO DESENVOLVIDO PARA A START DB, PROGRAMA DE ESTÁGIO DA EMPRESA DBServer
 
-https://db.tec.br/
+https://db.tec.br/<br>
 https://www.linkedin.com/company/dbserver/
 
 # DESCRIÇÃO DO DESAFIO NA INTEGRA ABAIXO:
